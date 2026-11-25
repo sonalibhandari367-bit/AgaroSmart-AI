@@ -1,0 +1,14 @@
+**/.venv/
+**/node_modules/
+**/dist/
+**/.env
+**/.env.*
+**/*.db
+**/*.log
+**/*.tsbuildinfo
+**/__pycache__/
+**/.pytest_cache/
+backend/build/
+backend/*.egg-info/
+backend/tests/
+backend/data/*.csv
